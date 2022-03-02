@@ -5,5 +5,5 @@ This Repository contains different types of problems from the Machine Learning C
 All the problem Statements are in the corresponding Folder itself.  
   
   
-ML_LAB_1 ==> Data Mining, Basic Python.
-ML_LAB_2 ==>  
+ML_LAB_1 ==> Data Mining, Basic Python.  
+ML_LAB_2 ==> Data Mining, Machine Learning. 
