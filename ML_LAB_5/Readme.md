@@ -1,8 +1,4 @@
-# Implement the following variants of regression problems:  
-  
-
-  
-# Regarding dataset used :  
+# Problem Statement:   
 
 Consider images from MNIST dataset (a handwritten digits database) where each image is of size
 28x28. The dataset is divided into two sets – training set and test set. Training set consists on 60000
