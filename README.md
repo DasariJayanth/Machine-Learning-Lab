@@ -9,3 +9,5 @@ ML_LAB_1 ==> Data Mining, Basic Python.
 ML_LAB_2 ==> Data Mining, Machine Learning.   
 ML_LAB_3 ==> Classes & Objects, OOPS.  
 ML_LAB_4 ==> Regression Techniques.  
+ML_LAB_5 ==> Dimensionality Reduction Techniques(PCA, AutoEncoder).  
+ML_LAB_6 ==> LDA + K-NN & Comparing With Previous Dimensionality Reduction Techniques.   
