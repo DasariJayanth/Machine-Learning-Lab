@@ -17,7 +17,7 @@ Generate samples from Guassian distributions N(mu3, sigma3) and N(mu4, sigma4), 
   
 Where,  
 mu1 = [-10 -10], and sigma1 = [[1 0][0 1]]  
-mu2 = [10 10], and sigma2 = [[1 0][0 1]]  
-mu3 = [0 0], and sigma3 = [[1 0][0 1]]  
-mu4 = [1 1], and sigma4 = [[1 0][0 1]]  
+mu2 = [ 10  10], and sigma2 = [[1 0][0 1]]  
+mu3 = [0 0]    , and sigma3 = [[1 0][0 1]]  
+mu4 = [1 1]    , and sigma4 = [[1 0][0 1]]  
 
